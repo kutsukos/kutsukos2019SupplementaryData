@@ -1,0 +1,4 @@
+name	chrom	strand	txStart	txEnd	proteinID	alignID
+uc003jej.3	chr5	+	8839876	8881636		uc003jej.3
+uc003jek.2	chr5	-	9035137	9546233	Q13591	uc003jek.2
+uc021xwl.1	chr5	-	9053927	9054007		uc021xwl.1

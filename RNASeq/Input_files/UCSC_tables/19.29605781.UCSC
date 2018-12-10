@@ -1,0 +1,6 @@
+name	chrom	strand	txStart	txEnd	proteinID	alignID
+uc002nsd.2	chr19	-	29698166	29704136	P47985	uc002nsd.2
+uc002nse.1	chr19	-	29777917	30016659		uc002nse.1
+uc010xrl.1	chr19	+	30017490	30055226	A6NLU5	uc010xrl.1
+uc002nsf.2	chr19	+	30097169	30108162	O95707	uc002nsf.2
+uc002nsg.2	chr19	+	30097169	30108162	A8MYC1	uc002nsg.2

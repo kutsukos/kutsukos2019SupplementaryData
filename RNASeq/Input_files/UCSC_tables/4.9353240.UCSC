@@ -1,0 +1,12 @@
+name	chrom	strand	txStart	txEnd	proteinID	alignID
+uc021xlr.1	chr4	+	9355363	9356956	Q0WX57	uc021xlr.1
+uc031sdq.1	chr4	+	9360107	9361700	Q6QN14	uc031sdq.1
+uc031sdr.1	chr4	+	9364854	9366447	Q0WX57	uc031sdr.1
+uc011bws.2	chr4	+	9369599	9370796	Q6QN14	uc011bws.2
+uc011bwt.2	chr4	+	9446259	9452240	P59861	uc011bwt.2
+uc021xlt.1	chr4	-	9557788	9557937		uc021xlt.1
+uc021xlu.1	chr4	+	9668529	9668652		uc021xlu.1
+uc010idl.1	chr4	-	9707632	9707661		uc010idl.1
+uc003gmb.4	chr4	+	9783257	9785633	P21918	uc003gmb.4
+uc003gmc.3	chr4	-	9827847	10023114	Q9NRM0	uc003gmc.3
+uc003gmd.3	chr4	-	9827847	10041872	Q9NRM0-2	uc003gmd.3
