@@ -1,0 +1,5 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 TRUE 0.0481 57 4 2 0.5 0.035 GO:0019814 CC 2 immunoglobulin complex 1 ENSG00000211951,ENSG00000224650
+1 TRUE 0.0431 54 4 2 0.5 0.037 GO:0042571 CC 2 immunoglobulin complex, circulating 1 ENSG00000211951,ENSG00000224650
+1 TRUE 0.0498 58 4 2 0.5 0.034 GO:0034987 MF 3 immunoglobulin receptor binding 1 ENSG00000211951,ENSG00000224650
+1 TRUE 0.05 2 1 1 1 0.5 CORUM:6736 cor 1 PRAME-Cullin2 ubiquitin ligase complex 1 ENSG00000185686

@@ -1,0 +1,3 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 TRUE 0.0108 5 15 2 0.133 0.4 GO:0071547 CC 2 piP-body 1 ENSG00000143194,ENSG00000156414
+1 TRUE 0.0188 29 6 2 0.333 0.069 REAC:R-HSA-5601884 rea 1 PIWI-interacting RNA (piRNA) biogenesis 1 ENSG00000143194,ENSG00000156414

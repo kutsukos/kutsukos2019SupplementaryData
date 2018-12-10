@@ -1,0 +1,5 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 TRUE 0.05 2 1 1 1 0.5 CORUM:1 cor 2 BCL6-HDAC4 complex 1 ENSG00000113916
+1 TRUE 0.05 2 1 1 1 0.5 CORUM:3 cor 3 BCL6-HDAC7 complex 1 ENSG00000113916
+1 TRUE 0.05 2 1 1 1 0.5 CORUM:1508 cor 1 BCL6-ZBTB17 complex 1 ENSG00000113916
+1 TRUE 0.05 2 1 1 1 0.5 CORUM:2 cor 4 BCL6-HDAC5 complex 1 ENSG00000113916

@@ -1,0 +1,4 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 TRUE 0.0498 2 2 1 0.5 0.5 CORUM:6736 cor 2 PRAME-Cullin2 ubiquitin ligase complex 1 ENSG00000185686
+1 TRUE 0.0409 23 8 2 0.25 0.087 TF:M05632 tf 1 Factor: ZNF286B; motif: NGYTTWGAAARA 1 ENSG00000147394,ENSG00000187715
+1 TRUE 0.0409 23 8 2 0.25 0.087 TF:M05632_0 tf 1 Factor: ZNF286B; motif: NGYTTWGAAARA; match class: 0 2 ENSG00000147394,ENSG00000187715

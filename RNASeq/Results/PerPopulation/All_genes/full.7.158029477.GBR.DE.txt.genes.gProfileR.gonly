@@ -1,0 +1,2 @@
+term.id domain term.name p.value overlap.size term.size intersection
+GO:0003823 MF antigen binding 0.0155 4 190 ENSG00000211664,ENSG00000211968,ENSG00000241294,ENSG00000278196

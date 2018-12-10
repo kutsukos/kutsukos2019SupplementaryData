@@ -1,0 +1,2 @@
+term.id domain term.name p.value overlap.size term.size intersection
+GO:0071547 CC piP-body 0.0108 2 5 ENSG00000143194,ENSG00000156414

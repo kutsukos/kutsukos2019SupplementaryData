@@ -1,0 +1,4 @@
+term.id domain term.name p.value overlap.size term.size intersection
+GO:0042571 CC immunoglobulin complex, circulating 0.0431 2 54 ENSG00000211951,ENSG00000224650
+GO:0019814 CC immunoglobulin complex 0.0481 2 57 ENSG00000211951,ENSG00000224650
+GO:0034987 MF immunoglobulin receptor binding 0.0498 2 58 ENSG00000211951,ENSG00000224650

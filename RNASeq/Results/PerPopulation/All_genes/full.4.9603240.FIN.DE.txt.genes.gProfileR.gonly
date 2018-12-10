@@ -1,0 +1,2 @@
+term.id domain term.name p.value overlap.size term.size intersection
+GO:0030133 CC transport vesicle 0.023 3 356 ENSG00000099625,ENSG00000135631,ENSG00000188886

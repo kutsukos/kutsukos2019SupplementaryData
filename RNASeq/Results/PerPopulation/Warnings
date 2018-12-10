@@ -1,0 +1,813 @@
+$$$$$$$$$$$$$$$ SELECTED $$$$$$$$$$$$$$$$$
+
+
+[1] "WARNINGS for i: 1 pop: YRI chr:  1  pos: 106015875"
+[1] "*** 7 / 9 samples 11 have been found"
+[1] "*** 42 / 53 samples 00 have been found"
+[1] "*** 19418 / 0 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one gene for this analysis"
+[1] "WARNINGS for i: 2 pop: CEU chr:  1  pos: 111802592"
+[1] "*** 21 / 24 samples 11 have been found"
+[1] "*** 21 / 22 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.3329 , BCV = 0.577 
+[1] "WARNINGS for i: 2 pop: FIN chr:  1  pos: 111802592"
+[1] "*** 25 / 26 samples 11 have been found"
+[1] "*** 36 / 38 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.21516 , BCV = 0.4639 
+[1] "WARNINGS for i: 2 pop: GBR chr:  1  pos: 111802592"
+[1] "*** 23 / 24 samples 11 have been found"
+[1] "*** 29 / 31 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.28289 , BCV = 0.5319 
+[1] "WARNINGS for i: 2 pop: TSI chr:  1  pos: 111802592"
+[1] "*** 21 / 24 samples 11 have been found"
+[1] "*** 33 / 42 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.20685 , BCV = 0.4548 
+[1] "WARNINGS for i: 2 pop: YRI chr:  1  pos: 111802592"
+[1] "*** 29 / 32 samples 11 have been found"
+[1] "*** 22 / 28 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.19695 , BCV = 0.4438 
+[1] "WARNINGS for i: 3 pop: CEU chr:  11  pos: 60449890"
+[1] "*** 0 / 1 samples 11 have been found"
+[1] "*** 83 / 92 samples 00 have been found"
+[1] "*** 6 / 31 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 4 pop: YRI chr:  11  pos: 71875417"
+[1] "*** 67 / 86 samples 11 have been found"
+[1] "*** 0 / 1 samples 00 have been found"
+[1] "*** 9 / 55 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 5 pop: CEU chr:  12  pos: 124066477"
+[1] "*** 4 / 5 samples 11 have been found"
+[1] "*** 61 / 69 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.04383 , BCV = 0.2094 
+[1] "WARNINGS for i: 5 pop: FIN chr:  12  pos: 124066477"
+[1] "*** 6 / 6 samples 11 have been found"
+[1] "*** 75 / 81 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.03048 , BCV = 0.1746 
+[1] "WARNINGS for i: 5 pop: GBR chr:  12  pos: 124066477"
+[1] "*** 10 / 10 samples 11 have been found"
+[1] "*** 56 / 60 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.0298 , BCV = 0.1726 
+[1] "WARNINGS for i: 5 pop: TSI chr:  12  pos: 124066477"
+[1] "*** 3 / 3 samples 11 have been found"
+[1] "*** 74 / 88 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.03733 , BCV = 0.1932 
+[1] "WARNINGS for i: 5 pop: YRI chr:  12  pos: 124066477"
+[1] "*** 4 / 6 samples 11 have been found"
+[1] "*** 49 / 59 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.04112 , BCV = 0.2028 
+[1] "WARNINGS for i: 6 pop: CEU chr:  12  pos: 44313657"
+[1] "*** 4 / 4 samples 11 have been found"
+[1] "*** 73 / 81 samples 00 have been found"
+[1] "*** 4 / 17 genes have been found"
+Disp = 0.0439 , BCV = 0.2095 
+[1] "WARNINGS for i: 6 pop: FIN chr:  12  pos: 44313657"
+[1] "*** 1 / 1 samples 11 have been found"
+[1] "*** 76 / 83 samples 00 have been found"
+[1] "*** 4 / 17 genes have been found"
+Disp = 0.0384 , BCV = 0.196 
+[1] "WARNINGS for i: 6 pop: TSI chr:  12  pos: 44313657"
+[1] "*** 1 / 1 samples 11 have been found"
+[1] "*** 78 / 92 samples 00 have been found"
+[1] "*** 4 / 17 genes have been found"
+Disp = 0.04528 , BCV = 0.2128 
+[1] "WARNINGS for i: 6 pop: YRI chr:  12  pos: 44313657"
+[1] "*** 17 / 22 samples 11 have been found"
+[1] "*** 21 / 29 samples 00 have been found"
+[1] "*** 4 / 17 genes have been found"
+Disp = 0.05805 , BCV = 0.2409 
+[1] "WARNINGS for i: 7 pop: CEU chr:  12  pos: 55727210"
+[1] "*** 0 / 66 samples 11 have been found"
+[1] "*** 0 / 3 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 7 pop: FIN chr:  12  pos: 55727210"
+[1] "*** 0 / 83 samples 11 have been found"
+[1] "*** 0 / 2 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 7 pop: GBR chr:  12  pos: 55727210"
+[1] "*** 0 / 63 samples 11 have been found"
+[1] "*** 0 / 1 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 7 pop: TSI chr:  12  pos: 55727210"
+[1] "*** 0 / 84 samples 11 have been found"
+[1] "*** 0 / 6 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 7 pop: YRI chr:  12  pos: 55727210"
+[1] "*** 0 / 46 samples 11 have been found"
+[1] "*** 0 / 17 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 8 pop: CEU chr:  15  pos: 63374594"
+[1] "*** 44 / 47 samples 11 have been found"
+[1] "*** 12 / 13 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.26036 , BCV = 0.5103 
+[1] "WARNINGS for i: 8 pop: FIN chr:  15  pos: 63374594"
+[1] "*** 56 / 59 samples 11 have been found"
+[1] "*** 7 / 7 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.08933 , BCV = 0.2989 
+[1] "WARNINGS for i: 8 pop: GBR chr:  15  pos: 63374594"
+[1] "*** 36 / 38 samples 11 have been found"
+[1] "*** 9 / 10 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.07763 , BCV = 0.2786 
+[1] "WARNINGS for i: 8 pop: TSI chr:  15  pos: 63374594"
+[1] "*** 34 / 47 samples 11 have been found"
+[1] "*** 16 / 19 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.11762 , BCV = 0.343 
+[1] "WARNINGS for i: 8 pop: YRI chr:  15  pos: 63374594"
+[1] "*** 42 / 49 samples 11 have been found"
+[1] "*** 6 / 10 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.1623 , BCV = 0.4029 
+[1] "WARNINGS for i: 9 pop: CEU chr:  19  pos: 21841536"
+[1] "*** 2 / 2 samples 11 have been found"
+[1] "*** 76 / 86 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.09082 , BCV = 0.3014 
+[1] "WARNINGS for i: 9 pop: FIN chr:  19  pos: 21841536"
+[1] "*** 6 / 7 samples 11 have been found"
+[1] "*** 70 / 75 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.06231 , BCV = 0.2496 
+[1] "WARNINGS for i: 9 pop: GBR chr:  19  pos: 21841536"
+[1] "*** 5 / 5 samples 11 have been found"
+[1] "*** 71 / 75 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.04424 , BCV = 0.2103 
+[1] "WARNINGS for i: 9 pop: TSI chr:  19  pos: 21841536"
+[1] "*** 2 / 2 samples 11 have been found"
+[1] "*** 81 / 96 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.07201 , BCV = 0.2683 
+[1] "WARNINGS for i: 9 pop: YRI chr:  19  pos: 21841536"
+[1] "*** 6 / 7 samples 11 have been found"
+[1] "*** 52 / 64 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.11773 , BCV = 0.3431 
+[1] "WARNINGS for i: 10 pop: CEU chr:  19  pos: 22414379"
+[1] "*** 11 / 11 samples 11 have been found"
+[1] "*** 41 / 50 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 2.08724 , BCV = 1.4447 
+[1] "WARNINGS for i: 10 pop: FIN chr:  19  pos: 22414379"
+[1] "*** 18 / 19 samples 11 have been found"
+[1] "*** 37 / 41 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 0.58012 , BCV = 0.7617 
+[1] "WARNINGS for i: 10 pop: GBR chr:  19  pos: 22414379"
+[1] "*** 12 / 12 samples 11 have been found"
+[1] "*** 37 / 40 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 0.5315 , BCV = 0.729 
+[1] "WARNINGS for i: 10 pop: TSI chr:  19  pos: 22414379"
+[1] "*** 13 / 16 samples 11 have been found"
+[1] "*** 37 / 42 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 0.87113 , BCV = 0.9333 
+[1] "WARNINGS for i: 10 pop: YRI chr:  19  pos: 22414379"
+[1] "*** 33 / 41 samples 11 have been found"
+[1] "*** 9 / 14 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 1.23804 , BCV = 1.1127 
+[1] "WARNINGS for i: 11 pop: CEU chr:  19  pos: 29855781"
+[1] "*** 22 / 24 samples 11 have been found"
+[1] "*** 24 / 27 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.0312 , BCV = 0.1766 
+[1] "WARNINGS for i: 11 pop: FIN chr:  19  pos: 29855781"
+[1] "*** 26 / 28 samples 11 have been found"
+[1] "*** 32 / 34 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.0311 , BCV = 0.1764 
+[1] "WARNINGS for i: 11 pop: GBR chr:  19  pos: 29855781"
+[1] "*** 23 / 23 samples 11 have been found"
+[1] "*** 28 / 31 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.02312 , BCV = 0.1521 
+[1] "WARNINGS for i: 11 pop: TSI chr:  19  pos: 29855781"
+[1] "*** 13 / 15 samples 11 have been found"
+[1] "*** 46 / 56 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.02804 , BCV = 0.1674 
+[1] "WARNINGS for i: 11 pop: YRI chr:  19  pos: 29855781"
+[1] "*** 16 / 20 samples 11 have been found"
+[1] "*** 21 / 33 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.02473 , BCV = 0.1573 
+[1] "WARNINGS for i: 12 pop: YRI chr:  3  pos: 14132679"
+[1] "*** 44 / 53 samples 11 have been found"
+[1] "*** 7 / 11 samples 00 have been found"
+[1] "*** 4 / 13 genes have been found"
+Disp = 0.02759 , BCV = 0.1661 
+
+
+
+
+## leipei to 13. den exei 00 kai 11 sta CEU FIN ktl
+
+
+
+
+
+
+[1] "WARNINGS for i: 14 pop: CEU chr:  4  pos: 120263688"
+[1] "*** 79 / 87 samples 11 have been found"
+[1] "*** 3 / 4 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.17064 , BCV = 0.4131 
+[1] "WARNINGS for i: 14 pop: FIN chr:  4  pos: 120263688"
+[1] "*** 82 / 88 samples 11 have been found"
+[1] "*** 2 / 2 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.11833 , BCV = 0.344 
+[1] "WARNINGS for i: 14 pop: GBR chr:  4  pos: 120263688"
+[1] "*** 68 / 72 samples 11 have been found"
+[1] "*** 7 / 7 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.14971 , BCV = 0.3869 
+[1] "WARNINGS for i: 14 pop: TSI chr:  4  pos: 120263688"
+[1] "*** 81 / 95 samples 11 have been found"
+[1] "*** 5 / 6 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.16774 , BCV = 0.4096 
+[1] "WARNINGS for i: 14 pop: YRI chr:  4  pos: 120263688"
+[1] "*** 63 / 78 samples 11 have been found"
+[1] "*** 4 / 5 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.17801 , BCV = 0.4219 
+[1] "WARNINGS for i: 15 pop: CEU chr:  4  pos: 9603240"
+[1] "*** 53 / 60 samples 11 have been found"
+[1] "*** 2 / 3 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 1.36299 , BCV = 1.1675 
+[1] "WARNINGS for i: 15 pop: FIN chr:  4  pos: 9603240"
+[1] "*** 74 / 80 samples 11 have been found"
+[1] "*** 2 / 2 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 0.55808 , BCV = 0.747 
+[1] "WARNINGS for i: 15 pop: GBR chr:  4  pos: 9603240"
+[1] "*** 60 / 62 samples 11 have been found"
+[1] "*** 1 / 1 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 0.78901 , BCV = 0.8883 
+[1] "WARNINGS for i: 15 pop: TSI chr:  4  pos: 9603240"
+[1] "*** 68 / 80 samples 11 have been found"
+[1] "*** 3 / 4 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 0.86064 , BCV = 0.9277 
+[1] "WARNINGS for i: 15 pop: YRI chr:  4  pos: 9603240"
+[1] "*** 22 / 28 samples 11 have been found"
+[1] "*** 21 / 27 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 0.52003 , BCV = 0.7211 
+[1] "WARNINGS for i: 16 pop: CEU chr:  5  pos: 8937848"
+[1] "*** 46 / 51 samples 11 have been found"
+[1] "*** 5 / 6 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 1.88951 , BCV = 1.3746 
+[1] "WARNINGS for i: 16 pop: FIN chr:  5  pos: 8937848"
+[1] "*** 57 / 79 samples 11 have been found"
+[1] "*** 2 / 2 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 1.47682 , BCV = 1.2152 
+[1] "WARNINGS for i: 16 pop: GBR chr:  5  pos: 8937848"
+[1] "*** 39 / 51 samples 11 have been found"
+[1] "*** 4 / 7 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 1.67904 , BCV = 1.2958 
+[1] "WARNINGS for i: 16 pop: TSI chr:  5  pos: 8937848"
+[1] "*** 40 / 62 samples 11 have been found"
+[1] "*** 4 / 9 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 2.26587 , BCV = 1.5053 
+[1] "WARNINGS for i: 16 pop: YRI chr:  5  pos: 8937848"
+[1] "*** 43 / 57 samples 11 have been found"
+[1] "*** 3 / 4 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 1.58731 , BCV = 1.2599 
+[1] "WARNINGS for i: 17 pop: CEU chr:  6  pos: 32648036"
+[1] "*** 22 / 23 samples 11 have been found"
+[1] "*** 45 / 49 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.16011 , BCV = 0.4001 
+[1] "WARNINGS for i: 17 pop: FIN chr:  6  pos: 32648036"
+[1] "*** 17 / 20 samples 11 have been found"
+[1] "*** 49 / 53 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.19019 , BCV = 0.4361 
+[1] "WARNINGS for i: 17 pop: GBR chr:  6  pos: 32648036"
+[1] "*** 13 / 13 samples 11 have been found"
+[1] "*** 40 / 42 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.12666 , BCV = 0.3559 
+[1] "WARNINGS for i: 17 pop: TSI chr:  6  pos: 32648036"
+[1] "*** 13 / 16 samples 11 have been found"
+[1] "*** 47 / 55 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.16579 , BCV = 0.4072 
+[1] "WARNINGS for i: 17 pop: YRI chr:  6  pos: 32648036"
+[1] "*** 13 / 15 samples 11 have been found"
+[1] "*** 44 / 54 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.17174 , BCV = 0.4144 
+[1] "WARNINGS for i: 18 pop: CEU chr:  7  pos: 158029477"
+[1] "*** 12 / 13 samples 11 have been found"
+[1] "*** 41 / 48 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 1.27655 , BCV = 1.1298 
+[1] "WARNINGS for i: 18 pop: FIN chr:  7  pos: 158029477"
+[1] "*** 26 / 26 samples 11 have been found"
+[1] "*** 41 / 45 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 0.34815 , BCV = 0.59 
+[1] "WARNINGS for i: 18 pop: GBR chr:  7  pos: 158029477"
+[1] "*** 18 / 18 samples 11 have been found"
+[1] "*** 39 / 43 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 0.19552 , BCV = 0.4422 
+[1] "WARNINGS for i: 18 pop: TSI chr:  7  pos: 158029477"
+[1] "*** 16 / 19 samples 11 have been found"
+[1] "*** 49 / 56 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 0.36975 , BCV = 0.6081 
+[1] "WARNINGS for i: 18 pop: YRI chr:  7  pos: 158029477"
+[1] "*** 3 / 3 samples 11 have been found"
+[1] "*** 52 / 67 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 0.59974 , BCV = 0.7744 
+[1] "WARNINGS for i: 19 pop: CEU chr:  8  pos: 18651453"
+[1] "*** 12 / 13 samples 11 have been found"
+[1] "*** 47 / 59 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 1.53274 , BCV = 1.238 
+[1] "WARNINGS for i: 19 pop: FIN chr:  8  pos: 18651453"
+[1] "*** 12 / 14 samples 11 have been found"
+[1] "*** 48 / 56 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 0.16605 , BCV = 0.4075 
+[1] "WARNINGS for i: 19 pop: GBR chr:  8  pos: 18651453"
+[1] "*** 9 / 9 samples 11 have been found"
+[1] "*** 47 / 51 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 0.37945 , BCV = 0.616 
+[1] "WARNINGS for i: 19 pop: TSI chr:  8  pos: 18651453"
+[1] "*** 8 / 11 samples 11 have been found"
+[1] "*** 57 / 68 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 0.52415 , BCV = 0.724 
+[1] "WARNINGS for i: 19 pop: YRI chr:  8  pos: 18651453"
+[1] "*** 23 / 36 samples 11 have been found"
+[1] "*** 20 / 25 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 0.85291 , BCV = 0.9235 
+[1] "WARNINGS for i: 20 pop: CEU chr:  8  pos: 7355392"
+[1] "*** 0 / 21 samples 11 have been found"
+[1] "*** 0 / 27 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 20 pop: FIN chr:  8  pos: 7355392"
+[1] "*** 0 / 22 samples 11 have been found"
+[1] "*** 0 / 33 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 20 pop: GBR chr:  8  pos: 7355392"
+[1] "*** 0 / 17 samples 11 have been found"
+[1] "*** 0 / 28 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 20 pop: TSI chr:  8  pos: 7355392"
+[1] "*** 0 / 27 samples 11 have been found"
+[1] "*** 0 / 30 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 20 pop: YRI chr:  8  pos: 7355392"
+[1] "*** 0 / 51 samples 11 have been found"
+[1] "*** 0 / 12 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+
+
+
+
+
+
+
+
+$$$$$$$$$$$$$$$$$$ FULL $$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+[1] "WARNINGS for i: 1 pop: YRI chr:  1  pos: 106015875"
+[1] "*** 7 / 9 samples 11 have been found"
+[1] "*** 42 / 53 samples 00 have been found"
+[1] "*** 19418 / 0 genes have been found"
+Disp = 0.23845 , BCV = 0.4883 
+[1] "WARNINGS for i: 2 pop: CEU chr:  1  pos: 111802592"
+[1] "*** 21 / 24 samples 11 have been found"
+[1] "*** 21 / 22 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.30942 , BCV = 0.5563 
+[1] "WARNINGS for i: 2 pop: FIN chr:  1  pos: 111802592"
+[1] "*** 25 / 26 samples 11 have been found"
+[1] "*** 36 / 38 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.1672 , BCV = 0.4089 
+[1] "WARNINGS for i: 2 pop: GBR chr:  1  pos: 111802592"
+[1] "*** 23 / 24 samples 11 have been found"
+[1] "*** 29 / 31 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.15697 , BCV = 0.3962 
+[1] "WARNINGS for i: 2 pop: TSI chr:  1  pos: 111802592"
+[1] "*** 21 / 24 samples 11 have been found"
+[1] "*** 33 / 42 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.19242 , BCV = 0.4387 
+[1] "WARNINGS for i: 2 pop: YRI chr:  1  pos: 111802592"
+[1] "*** 29 / 32 samples 11 have been found"
+[1] "*** 22 / 28 samples 00 have been found"
+[1] "*** 9 / 34 genes have been found"
+Disp = 0.24922 , BCV = 0.4992 
+[1] "WARNINGS for i: 3 pop: CEU chr:  11  pos: 60449890"
+[1] "*** 0 / 1 samples 11 have been found"
+[1] "*** 83 / 92 samples 00 have been found"
+[1] "*** 6 / 31 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 4 pop: YRI chr:  11  pos: 71875417"
+[1] "*** 67 / 86 samples 11 have been found"
+[1] "*** 0 / 1 samples 00 have been found"
+[1] "*** 9 / 55 genes have been found"
+[1] "EXIT! SORRY! THANX! We need at least one sample"
+[1] "WARNINGS for i: 5 pop: CEU chr:  12  pos: 124066477"
+[1] "*** 4 / 5 samples 11 have been found"
+[1] "*** 61 / 69 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.31788 , BCV = 0.5638 
+[1] "WARNINGS for i: 5 pop: FIN chr:  12  pos: 124066477"
+[1] "*** 6 / 6 samples 11 have been found"
+[1] "*** 75 / 81 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.17163 , BCV = 0.4143 
+[1] "WARNINGS for i: 5 pop: GBR chr:  12  pos: 124066477"
+[1] "*** 10 / 10 samples 11 have been found"
+[1] "*** 56 / 60 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.1505 , BCV = 0.3879 
+[1] "WARNINGS for i: 5 pop: TSI chr:  12  pos: 124066477"
+[1] "*** 3 / 3 samples 11 have been found"
+[1] "*** 74 / 88 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.20926 , BCV = 0.4574 
+[1] "WARNINGS for i: 5 pop: YRI chr:  12  pos: 124066477"
+[1] "*** 4 / 6 samples 11 have been found"
+[1] "*** 49 / 59 samples 00 have been found"
+[1] "*** 10 / 34 genes have been found"
+Disp = 0.24991 , BCV = 0.4999 
+[1] "WARNINGS for i: 6 pop: CEU chr:  12  pos: 44313657"
+[1] "*** 4 / 4 samples 11 have been found"
+[1] "*** 73 / 81 samples 00 have been found"
+[1] "*** 4 / 17 genes have been found"
+Disp = 0.30857 , BCV = 0.5555 
+[1] "WARNINGS for i: 6 pop: FIN chr:  12  pos: 44313657"
+[1] "*** 1 / 1 samples 11 have been found"
+[1] "*** 76 / 83 samples 00 have been found"
+[1] "*** 4 / 17 genes have been found"
+Disp = 0.17439 , BCV = 0.4176 
+[1] "WARNINGS for i: 6 pop: TSI chr:  12  pos: 44313657"
+[1] "*** 1 / 1 samples 11 have been found"
+[1] "*** 78 / 92 samples 00 have been found"
+[1] "*** 4 / 17 genes have been found"
+Disp = 0.20773 , BCV = 0.4558 
+[1] "WARNINGS for i: 6 pop: YRI chr:  12  pos: 44313657"
+[1] "*** 17 / 22 samples 11 have been found"
+[1] "*** 21 / 29 samples 00 have been found"
+[1] "*** 4 / 17 genes have been found"
+Disp = 0.23512 , BCV = 0.4849 
+[1] "WARNINGS for i: 7 pop: CEU chr:  12  pos: 55727210"
+[1] "*** 60 / 66 samples 11 have been found"
+[1] "*** 3 / 3 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+Disp = 0.31465 , BCV = 0.5609 
+[1] "WARNINGS for i: 7 pop: FIN chr:  12  pos: 55727210"
+[1] "*** 76 / 83 samples 11 have been found"
+[1] "*** 2 / 2 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+Disp = 0.17533 , BCV = 0.4187 
+[1] "WARNINGS for i: 7 pop: GBR chr:  12  pos: 55727210"
+[1] "*** 61 / 63 samples 11 have been found"
+[1] "*** 1 / 1 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+Disp = 0.15681 , BCV = 0.396 
+[1] "WARNINGS for i: 7 pop: TSI chr:  12  pos: 55727210"
+[1] "*** 70 / 84 samples 11 have been found"
+[1] "*** 4 / 6 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+Disp = 0.20047 , BCV = 0.4477 
+[1] "WARNINGS for i: 7 pop: YRI chr:  12  pos: 55727210"
+[1] "*** 35 / 46 samples 11 have been found"
+[1] "*** 16 / 17 samples 00 have been found"
+[1] "*** 0 / 14 genes have been found"
+Disp = 0.23617 , BCV = 0.486 
+[1] "WARNINGS for i: 8 pop: CEU chr:  15  pos: 63374594"
+[1] "*** 44 / 47 samples 11 have been found"
+[1] "*** 12 / 13 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.31154 , BCV = 0.5582 
+[1] "WARNINGS for i: 8 pop: FIN chr:  15  pos: 63374594"
+[1] "*** 56 / 59 samples 11 have been found"
+[1] "*** 7 / 7 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.17351 , BCV = 0.4165 
+[1] "WARNINGS for i: 8 pop: GBR chr:  15  pos: 63374594"
+[1] "*** 36 / 38 samples 11 have been found"
+[1] "*** 9 / 10 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.15187 , BCV = 0.3897 
+[1] "WARNINGS for i: 8 pop: TSI chr:  15  pos: 63374594"
+[1] "*** 34 / 47 samples 11 have been found"
+[1] "*** 16 / 19 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.20281 , BCV = 0.4503 
+[1] "WARNINGS for i: 8 pop: YRI chr:  15  pos: 63374594"
+[1] "*** 42 / 49 samples 11 have been found"
+[1] "*** 6 / 10 samples 00 have been found"
+[1] "*** 6 / 29 genes have been found"
+Disp = 0.24023 , BCV = 0.4901 
+[1] "WARNINGS for i: 9 pop: CEU chr:  19  pos: 21841536"
+[1] "*** 2 / 2 samples 11 have been found"
+[1] "*** 76 / 86 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.32107 , BCV = 0.5666 
+[1] "WARNINGS for i: 9 pop: FIN chr:  19  pos: 21841536"
+[1] "*** 6 / 7 samples 11 have been found"
+[1] "*** 70 / 75 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.17088 , BCV = 0.4134 
+[1] "WARNINGS for i: 9 pop: GBR chr:  19  pos: 21841536"
+[1] "*** 5 / 5 samples 11 have been found"
+[1] "*** 71 / 75 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.14992 , BCV = 0.3872 
+[1] "WARNINGS for i: 9 pop: TSI chr:  19  pos: 21841536"
+[1] "*** 2 / 2 samples 11 have been found"
+[1] "*** 81 / 96 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.20012 , BCV = 0.4473 
+[1] "WARNINGS for i: 9 pop: YRI chr:  19  pos: 21841536"
+[1] "*** 6 / 7 samples 11 have been found"
+[1] "*** 52 / 64 samples 00 have been found"
+[1] "*** 4 / 16 genes have been found"
+Disp = 0.24432 , BCV = 0.4943 
+[1] "WARNINGS for i: 10 pop: CEU chr:  19  pos: 22414379"
+[1] "*** 11 / 11 samples 11 have been found"
+[1] "*** 45 / 50 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 0.30918 , BCV = 0.556 
+[1] "WARNINGS for i: 10 pop: FIN chr:  19  pos: 22414379"
+[1] "*** 18 / 19 samples 11 have been found"
+[1] "*** 37 / 41 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 0.17676 , BCV = 0.4204 
+[1] "WARNINGS for i: 10 pop: GBR chr:  19  pos: 22414379"
+[1] "*** 12 / 12 samples 11 have been found"
+[1] "*** 37 / 40 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 0.15495 , BCV = 0.3936 
+[1] "WARNINGS for i: 10 pop: TSI chr:  19  pos: 22414379"
+[1] "*** 13 / 16 samples 11 have been found"
+[1] "*** 37 / 42 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 0.19014 , BCV = 0.4361 
+[1] "WARNINGS for i: 10 pop: YRI chr:  19  pos: 22414379"
+[1] "*** 33 / 41 samples 11 have been found"
+[1] "*** 10 / 14 samples 00 have been found"
+[1] "*** 2 / 6 genes have been found"
+Disp = 0.23874 , BCV = 0.4886 
+[1] "WARNINGS for i: 11 pop: CEU chr:  19  pos: 29855781"
+[1] "*** 22 / 24 samples 11 have been found"
+[1] "*** 24 / 27 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.30958 , BCV = 0.5564 
+[1] "WARNINGS for i: 11 pop: FIN chr:  19  pos: 29855781"
+[1] "*** 26 / 28 samples 11 have been found"
+[1] "*** 32 / 34 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.17057 , BCV = 0.413 
+[1] "WARNINGS for i: 11 pop: GBR chr:  19  pos: 29855781"
+[1] "*** 23 / 23 samples 11 have been found"
+[1] "*** 28 / 31 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.15121 , BCV = 0.3889 
+[1] "WARNINGS for i: 11 pop: TSI chr:  19  pos: 29855781"
+[1] "*** 13 / 15 samples 11 have been found"
+[1] "*** 46 / 56 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.19095 , BCV = 0.437 
+[1] "WARNINGS for i: 11 pop: YRI chr:  19  pos: 29855781"
+[1] "*** 16 / 20 samples 11 have been found"
+[1] "*** 21 / 33 samples 00 have been found"
+[1] "*** 2 / 4 genes have been found"
+Disp = 0.23534 , BCV = 0.4851 
+[1] "WARNINGS for i: 12 pop: YRI chr:  3  pos: 14132679"
+[1] "*** 44 / 53 samples 11 have been found"
+[1] "*** 7 / 11 samples 00 have been found"
+[1] "*** 4 / 13 genes have been found"
+Disp = 0.24817 , BCV = 0.4982 
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+to 13 den exei deigmata 00 einai ok
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+[1] "WARNINGS for i: 14 pop: CEU chr:  4  pos: 120263688"
+[1] "*** 79 / 87 samples 11 have been found"
+[1] "*** 3 / 4 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.31623 , BCV = 0.5623 
+[1] "WARNINGS for i: 14 pop: FIN chr:  4  pos: 120263688"
+[1] "*** 82 / 88 samples 11 have been found"
+[1] "*** 2 / 2 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.17248 , BCV = 0.4153 
+[1] "WARNINGS for i: 14 pop: GBR chr:  4  pos: 120263688"
+[1] "*** 68 / 72 samples 11 have been found"
+[1] "*** 7 / 7 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.15523 , BCV = 0.394 
+[1] "WARNINGS for i: 14 pop: TSI chr:  4  pos: 120263688"
+[1] "*** 81 / 95 samples 11 have been found"
+[1] "*** 5 / 6 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.20623 , BCV = 0.4541 
+[1] "WARNINGS for i: 14 pop: YRI chr:  4  pos: 120263688"
+[1] "*** 63 / 78 samples 11 have been found"
+[1] "*** 4 / 5 samples 00 have been found"
+[1] "*** 3 / 12 genes have been found"
+Disp = 0.25408 , BCV = 0.5041 
+[1] "WARNINGS for i: 15 pop: CEU chr:  4  pos: 9603240"
+[1] "*** 53 / 60 samples 11 have been found"
+[1] "*** 2 / 3 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 0.31147 , BCV = 0.5581 
+[1] "WARNINGS for i: 15 pop: FIN chr:  4  pos: 9603240"
+[1] "*** 74 / 80 samples 11 have been found"
+[1] "*** 2 / 2 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 0.17149 , BCV = 0.4141 
+[1] "WARNINGS for i: 15 pop: GBR chr:  4  pos: 9603240"
+[1] "*** 60 / 62 samples 11 have been found"
+[1] "*** 1 / 1 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 0.14851 , BCV = 0.3854 
+[1] "WARNINGS for i: 15 pop: TSI chr:  4  pos: 9603240"
+[1] "*** 68 / 80 samples 11 have been found"
+[1] "*** 3 / 4 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 0.198 , BCV = 0.445 
+[1] "WARNINGS for i: 15 pop: YRI chr:  4  pos: 9603240"
+[1] "*** 22 / 28 samples 11 have been found"
+[1] "*** 21 / 27 samples 00 have been found"
+[1] "*** 2 / 8 genes have been found"
+Disp = 0.24572 , BCV = 0.4957 
+[1] "WARNINGS for i: 16 pop: CEU chr:  5  pos: 8937848"
+[1] "*** 46 / 51 samples 11 have been found"
+[1] "*** 5 / 6 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 0.29746 , BCV = 0.5454 
+[1] "WARNINGS for i: 16 pop: FIN chr:  5  pos: 8937848"
+[1] "*** 73 / 79 samples 11 have been found"
+[1] "*** 2 / 2 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 0.17816 , BCV = 0.4221 
+[1] "WARNINGS for i: 16 pop: GBR chr:  5  pos: 8937848"
+[1] "*** 50 / 51 samples 11 have been found"
+[1] "*** 7 / 7 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 0.15408 , BCV = 0.3925 
+[1] "WARNINGS for i: 16 pop: TSI chr:  5  pos: 8937848"
+[1] "*** 52 / 62 samples 11 have been found"
+[1] "*** 8 / 9 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 0.21316 , BCV = 0.4617 
+[1] "WARNINGS for i: 16 pop: YRI chr:  5  pos: 8937848"
+[1] "*** 43 / 57 samples 11 have been found"
+[1] "*** 3 / 4 samples 00 have been found"
+[1] "*** 1 / 1 genes have been found"
+Disp = 0.24586 , BCV = 0.4958 
+[1] "WARNINGS for i: 17 pop: CEU chr:  6  pos: 32648036"
+[1] "*** 22 / 23 samples 11 have been found"
+[1] "*** 45 / 49 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.30667 , BCV = 0.5538 
+[1] "WARNINGS for i: 17 pop: FIN chr:  6  pos: 32648036"
+[1] "*** 17 / 20 samples 11 have been found"
+[1] "*** 49 / 53 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.17747 , BCV = 0.4213 
+[1] "WARNINGS for i: 17 pop: GBR chr:  6  pos: 32648036"
+[1] "*** 13 / 13 samples 11 have been found"
+[1] "*** 40 / 42 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.15531 , BCV = 0.3941 
+[1] "WARNINGS for i: 17 pop: TSI chr:  6  pos: 32648036"
+[1] "*** 13 / 16 samples 11 have been found"
+[1] "*** 47 / 55 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.21079 , BCV = 0.4591 
+[1] "WARNINGS for i: 17 pop: YRI chr:  6  pos: 32648036"
+[1] "*** 13 / 15 samples 11 have been found"
+[1] "*** 44 / 54 samples 00 have been found"
+[1] "*** 12 / 31 genes have been found"
+Disp = 0.24118 , BCV = 0.4911 
+[1] "WARNINGS for i: 18 pop: CEU chr:  7  pos: 158029477"
+[1] "*** 13 / 13 samples 11 have been found"
+[1] "*** 42 / 48 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 0.31476 , BCV = 0.561 
+[1] "WARNINGS for i: 18 pop: FIN chr:  7  pos: 158029477"
+[1] "*** 26 / 26 samples 11 have been found"
+[1] "*** 41 / 45 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 0.16856 , BCV = 0.4106 
+[1] "WARNINGS for i: 18 pop: GBR chr:  7  pos: 158029477"
+[1] "*** 18 / 18 samples 11 have been found"
+[1] "*** 39 / 43 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 0.14958 , BCV = 0.3867 
+[1] "WARNINGS for i: 18 pop: TSI chr:  7  pos: 158029477"
+[1] "*** 16 / 19 samples 11 have been found"
+[1] "*** 49 / 56 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 0.19197 , BCV = 0.4381 
+[1] "WARNINGS for i: 18 pop: YRI chr:  7  pos: 158029477"
+[1] "*** 3 / 3 samples 11 have been found"
+[1] "*** 52 / 67 samples 00 have been found"
+[1] "*** 1 / 5 genes have been found"
+Disp = 0.24418 , BCV = 0.4941 
+[1] "WARNINGS for i: 19 pop: CEU chr:  8  pos: 18651453"
+[1] "*** 13 / 13 samples 11 have been found"
+[1] "*** 52 / 59 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 0.31317 , BCV = 0.5596 
+[1] "WARNINGS for i: 19 pop: FIN chr:  8  pos: 18651453"
+[1] "*** 12 / 14 samples 11 have been found"
+[1] "*** 54 / 56 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 0.17158 , BCV = 0.4142 
+[1] "WARNINGS for i: 19 pop: GBR chr:  8  pos: 18651453"
+[1] "*** 9 / 9 samples 11 have been found"
+[1] "*** 49 / 51 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 0.15369 , BCV = 0.392 
+[1] "WARNINGS for i: 19 pop: TSI chr:  8  pos: 18651453"
+[1] "*** 9 / 11 samples 11 have been found"
+[1] "*** 58 / 68 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 0.19075 , BCV = 0.4367 
+[1] "WARNINGS for i: 19 pop: YRI chr:  8  pos: 18651453"
+[1] "*** 25 / 36 samples 11 have been found"
+[1] "*** 20 / 25 samples 00 have been found"
+[1] "*** 1 / 4 genes have been found"
+Disp = 0.24062 , BCV = 0.4905 
+[1] "WARNINGS for i: 20 pop: CEU chr:  8  pos: 7355392"
+[1] "*** 17 / 21 samples 11 have been found"
+[1] "*** 24 / 27 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+Disp = 0.27459 , BCV = 0.524 
+[1] "WARNINGS for i: 20 pop: FIN chr:  8  pos: 7355392"
+[1] "*** 21 / 22 samples 11 have been found"
+[1] "*** 31 / 33 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+Disp = 0.181 , BCV = 0.4254 
+[1] "WARNINGS for i: 20 pop: GBR chr:  8  pos: 7355392"
+[1] "*** 17 / 17 samples 11 have been found"
+[1] "*** 28 / 28 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+Disp = 0.14477 , BCV = 0.3805 
+[1] "WARNINGS for i: 20 pop: TSI chr:  8  pos: 7355392"
+[1] "*** 21 / 27 samples 11 have been found"
+[1] "*** 26 / 30 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+Disp = 0.18367 , BCV = 0.4286 
+[1] "WARNINGS for i: 20 pop: YRI chr:  8  pos: 7355392"
+[1] "*** 39 / 51 samples 11 have been found"
+[1] "*** 11 / 12 samples 00 have been found"
+[1] "*** 0 / 17 genes have been found"
+Disp = 0.25067 , BCV = 0.5007 
+

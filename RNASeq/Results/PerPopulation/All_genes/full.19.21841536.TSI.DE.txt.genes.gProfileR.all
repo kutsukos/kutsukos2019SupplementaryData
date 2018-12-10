@@ -1,0 +1,3 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 TRUE 0.05 2 1 1 1 0.5 CORUM:672 cor 1 BKCA-beta2AR complex 1 ENSG00000156113
+1 TRUE 0.05 2 1 1 1 0.5 CORUM:6748 cor 2 KCNMA1-LRRC26 complex 1 ENSG00000156113

@@ -1,0 +1,7 @@
+query.number significant p.value term.size query.size overlap.size precision recall term.id domain subgraph.number term.name relative.depth intersection
+1 TRUE 0.0498 2 2 1 0.5 0.5 CORUM:5734 cor 1 NRP1-VEGFD complex, heparin dependent 1 ENSG00000099250
+1 TRUE 0.0498 2 2 1 0.5 0.5 CORUM:3104 cor 2 ITGB1-NRP1 complex 1 ENSG00000099250
+1 TRUE 0.0498 2 2 1 0.5 0.5 CORUM:5745 cor 6 PlexinA1-NRP1 complex 1 ENSG00000099250
+1 TRUE 0.0498 2 2 1 0.5 0.5 CORUM:5658 cor 3 Nrp1-PlexinD1 complex 1 ENSG00000099250
+1 TRUE 0.0498 2 2 1 0.5 0.5 CORUM:5701 cor 5 NRP1-VEGF(165/121) complex 1 ENSG00000099250
+1 TRUE 0.0498 2 2 1 0.5 0.5 CORUM:5731 cor 4 NRP1-VEGFC complex, heparin dependent 1 ENSG00000099250
