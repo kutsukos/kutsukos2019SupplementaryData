@@ -7,7 +7,7 @@ In this repository, you can find all the supplementary data for detecting positi
 Caution! The data used in the analysis is not the same as in the following workflows.
 
 ##### [Step 1 - Likelihood-based detection of selective sweeps using SweeD](https://github.com/kutsukos/SweeDKutsukosWorkflow)
-##### [Step 2 - Linkage Disequilibrium patterns - based detection of selective sweeps using OmegaPlus](https://github.com/kutsukos/OmegaPlusKutsukosWorkflow)
+##### [Step 2 - Linkage Disequilibrium patterns - based detection of selective sweeps using OmegaPlus](https://github.com/kutsukos/OmegaPlusWorkflow)
 ##### [Step 3 - Population Statistics](https://github.com/kutsukos/VCF-statistics)
 
 
