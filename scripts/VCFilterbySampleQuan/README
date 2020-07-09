@@ -1,0 +1,22 @@
+# VCF Filter by Sample Quantity
+This tool is counting the samples that are characterized by the presence of a SNP or whatever the line describes and the samples that do not. Then if those numbers are over the threshold, keeps the line/SNP to a different file. 
+By the end, three files will be created. Two of them containing information about the summaries and one containing the final vcf file, which satisfies the threshold.
+
+```
+Usage: VCFilterbySampleQuan.py [options]
+Options:
+  -h, --help            show this help message and exit
+  -v FILE, --vcf=FILE   VCF for statistics
+  -t NUMBER , --threshold=NUMBER
+```
+
+#### VERSION CHANGELOG
+```
+-0.1 CURRENT
+	+arguments added as options
+	+phased data are also analysed, without user defining if it is phased or not
+```
+
+## Contact
+Contact me at [ioannis.kutsukos@gmail.com](mailto:ioannis.kutsukos@gmail.com) or at [skarisg@gmail.com](mailto:skarisg@gmail.com) for reporting bugs or anything else! :)
+
